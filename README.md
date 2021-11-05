@@ -6,4 +6,4 @@
 <img src="https://user-images.githubusercontent.com/62838207/140577039-84a8f1ed-6aad-44d3-8b4b-ee0f7762d142.jpg" width="200" height="400"/>
 <img src="https://user-images.githubusercontent.com/62838207/140577205-4ff3c010-846c-4934-9b52-bbef8e088eee.jpg" width="200" height="400"/>
 
-
+this is a clone of Food ordering app.
