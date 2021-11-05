@@ -1,6 +1,5 @@
 # FoodRunner
 
 <img src="https://user-images.githubusercontent.com/62838207/114208756-781b1500-997b-11eb-955d-037a27c6494b.jpg" width="200" height="400"/>     <img src="https://user-images.githubusercontent.com/62838207/114207246-ccbd9080-9979-11eb-9f4a-c076bab8b5c2.jpg" width="200" height="400"/>    <img src="https://user-images.githubusercontent.com/62838207/114206919-751f2500-9979-11eb-943a-d272313a8dc6.jpg" width="200" height="400"/>
-![Screenshot_20210406-002207_FoodRunner (1)](https://user-images.githubusercontent.com/62838207/140576314-68007cfe-0ad7-46d5-abae-860049220d4c.jpg)
 
 
