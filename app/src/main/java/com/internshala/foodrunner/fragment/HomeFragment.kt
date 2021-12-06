@@ -122,7 +122,7 @@ class HomeFragment : Fragment() {
                     val headers = HashMap<String, String>()
                     headers["Content-type"] = "application/json"
 
-                    /*The below used token will not work, kindly use the token provided to you in the training*/
+                   
                     headers["token"] = "9bf534118365f1"
                     return headers
                 }
